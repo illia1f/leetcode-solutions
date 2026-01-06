@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "two-sum": "bun ./TwoSum/index.js"
+    "two-sum": "bun ./two-sum/index.js",
+    "longest-common-prefix": "bun ./longest-common-prefix/index.js"
   }
 }
