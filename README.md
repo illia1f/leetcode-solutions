@@ -4,10 +4,11 @@ A collection of my LeetCode problem solutions in various programming languages.
 
 ## Problems Solved
 
-| #   | Problem                                                                       | Difficulty | Solution(s)                            |
-| --- | ----------------------------------------------------------------------------- | ---------- | -------------------------------------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                             | Easy       | [JavaScript](js/two-sum)               |
-| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy       | [JavaScript](js/longest-common-prefix) |
+| #   | Problem                                                                                                   | Difficulty | Solution(s)                                            |
+| --- | --------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | Easy       | [JavaScript](js/two-sum)                               |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | Easy       | [JavaScript](js/longest-common-prefix)                 |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy       | [JavaScript](js/remove-duplicates-from-sorted-array)   |
 
 ---
 
@@ -27,8 +28,8 @@ Each solution is organized in its own folder under the respective language direc
 
 ## Progress
 
-**Total Problems Solved:** 2
+**Total Problems Solved:** 3
 
-- Easy: 2
+- Easy: 3
 - Medium: 0
 - Hard: 0
