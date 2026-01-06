@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "two-sum": "bun ./TwoSum/index.js"
+  }
+}
