@@ -11,6 +11,7 @@ A collection of my LeetCode problem solutions in various programming languages.
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy       | [JavaScript](js/remove-duplicates-from-sorted-array) |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | Easy       | [JavaScript](js/remove-element)                      |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | Easy       | [JavaScript](js/search-insert-position)              |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | Easy       | [JavaScript](js/plus-one)                            |
 
 ---
 
@@ -30,8 +31,8 @@ Each solution is organized in its own folder under the respective language direc
 
 ## Progress
 
-**Total Problems Solved:** 5
+**Total Problems Solved:** 6
 
-- Easy: 5
+- Easy: 6
 - Medium: 0
 - Hard: 0

@@ -4,6 +4,7 @@
     "longest-common-prefix": "bun ./longest-common-prefix/index.js",
     "remove-duplicates-from-sorted-array": "bun ./remove-duplicates-from-sorted-array/index.js",
     "remove-element": "bun ./remove-element/index.js",
-    "search-insert-position": "bun ./search-insert-position/index.js"
+    "search-insert-position": "bun ./search-insert-position/index.js",
+    "plus-one": "bun ./plus-one/index.js"
   }
 }
