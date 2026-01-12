@@ -5,6 +5,7 @@
     "remove-duplicates-from-sorted-array": "bun ./remove-duplicates-from-sorted-array/index.js",
     "remove-element": "bun ./remove-element/index.js",
     "search-insert-position": "bun ./search-insert-position/index.js",
-    "plus-one": "bun ./plus-one/index.js"
+    "plus-one": "bun ./plus-one/index.js",
+    "remove-one-element": "bun ./remove-one-element-to-make-the-array-strictly-increasing/index.js"
   }
 }
