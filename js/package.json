@@ -7,6 +7,7 @@
     "search-insert-position": "bun ./search-insert-position/index.js",
     "plus-one": "bun ./plus-one/index.js",
     "remove-one-element": "bun ./remove-one-element-to-make-the-array-strictly-increasing/index.js",
-    "can-place-flowers": "bun ./can-place-flowers/index.js"
+    "can-place-flowers": "bun ./can-place-flowers/index.js",
+    "merge-sorted-array": "bun ./merge-sorted-array/index.js"
   }
 }
