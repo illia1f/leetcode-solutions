@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "search-insert-position": "dotnet script search-insert-position/index.csx"
+    }
+}
