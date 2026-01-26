@@ -15,6 +15,7 @@ A collection of my LeetCode problem solutions in various programming languages.
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                             | Easy       | [JavaScript](js/merge-sorted-array)                                       |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                               | Easy       | [JavaScript](js/can-place-flowers)                                       |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | Easy       | [JavaScript](js/remove-one-element-to-make-the-array-strictly-increasing) |
+| 2627 | [Debounce](https://leetcode.com/problems/debounce/)                                                                                                   | Medium     | [JavaScript](js/debounce)                                                  |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                                               | Easy       | [JavaScript](js/score-of-a-string)                                        |
 
 ---
@@ -35,8 +36,8 @@ Each solution is organized in its own folder under the respective language direc
 
 ## Progress
 
-**Total Problems Solved:** 10
+**Total Problems Solved:** 11
 
 - Easy: 10
-- Medium: 0
+- Medium: 1
 - Hard: 0

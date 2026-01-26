@@ -9,6 +9,7 @@
     "remove-one-element": "bun ./remove-one-element-to-make-the-array-strictly-increasing/index.js",
     "can-place-flowers": "bun ./can-place-flowers/index.js",
     "merge-sorted-array": "bun ./merge-sorted-array/index.js",
-    "score-of-a-string": "bun ./score-of-a-string/index.js"
+    "score-of-a-string": "bun ./score-of-a-string/index.js",
+    "debounce": "bun ./debounce/index.js"
   }
 }
