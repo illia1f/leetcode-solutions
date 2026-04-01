@@ -4,19 +4,20 @@ A collection of my LeetCode problem solutions in various programming languages.
 
 ## Problems Solved
 
-| #    | Problem                                                                                                                                             | Difficulty | Solution(s)                                                               |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                   | Easy       | [JavaScript](js/two-sum)                                                  |
-| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                       | Easy       | [JavaScript](js/longest-common-prefix)                                    |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                           | Easy       | [JavaScript](js/remove-duplicates-from-sorted-array)                      |
-| 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                     | Easy       | [JavaScript](js/remove-element)                                           |
-| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                     | Easy       | [JavaScript](js/search-insert-position), [C#](csharp/search-insert-position)                                   |
-| 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                                 | Easy       | [JavaScript](js/plus-one)                                                 |
-| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                             | Easy       | [JavaScript](js/merge-sorted-array)                                       |
-| 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                               | Easy       | [JavaScript](js/can-place-flowers)                                       |
-| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | Easy       | [JavaScript](js/remove-one-element-to-make-the-array-strictly-increasing) |
-| 2627 | [Debounce](https://leetcode.com/problems/debounce/)                                                                                                   | Medium     | [JavaScript](js/debounce)                                                  |
-| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                                               | Easy       | [JavaScript](js/score-of-a-string)                                        |
+| #    | Problem                                                                                                                                             | Difficulty | Solution(s)                                                                  |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                   | Easy       | [JavaScript](js/two-sum)                                                     |
+| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                       | Easy       | [JavaScript](js/longest-common-prefix)                                       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                           | Easy       | [JavaScript](js/remove-duplicates-from-sorted-array)                         |
+| 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                     | Easy       | [JavaScript](js/remove-element)                                              |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                     | Easy       | [JavaScript](js/search-insert-position), [C#](csharp/search-insert-position) |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                                 | Easy       | [JavaScript](js/plus-one)                                                    |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                             | Easy       | [JavaScript](js/merge-sorted-array)                                          |
+| 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                               | Easy       | [JavaScript](js/can-place-flowers)                                           |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | Easy       | [JavaScript](js/remove-one-element-to-make-the-array-strictly-increasing)    |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep/)                                                                                                       | Easy       | [JavaScript](js/sleep)                                                       |
+| 2627 | [Debounce](https://leetcode.com/problems/debounce/)                                                                                                 | Medium     | [JavaScript](js/debounce)                                                    |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                                               | Easy       | [JavaScript](js/score-of-a-string)                                           |
 
 ---
 
@@ -36,8 +37,8 @@ Each solution is organized in its own folder under the respective language direc
 
 ## Progress
 
-**Total Problems Solved:** 11
+**Total Problems Solved:** 12
 
-- Easy: 10
+- Easy: 11
 - Medium: 1
 - Hard: 0
