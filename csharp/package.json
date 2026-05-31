@@ -1,5 +1,6 @@
 {
-    "scripts": {
-        "search-insert-position": "dotnet script search-insert-position/index.csx"
-    }
+  "scripts": {
+    "search-insert-position": "dotnet script search-insert-position/index.cs",
+    "contains-duplicate": "dotnet script contains-duplicate/index.cs"
+  }
 }

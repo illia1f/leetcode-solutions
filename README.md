@@ -13,6 +13,7 @@ A collection of my LeetCode problem solutions in various programming languages.
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                     | Easy       | [JavaScript](js/search-insert-position), [C#](csharp/search-insert-position) |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                                 | Easy       | [JavaScript](js/plus-one)                                                    |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                             | Easy       | [JavaScript](js/merge-sorted-array)                                          |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                             | Easy       | [C#](csharp/contains-duplicate)                                              |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                               | Easy       | [JavaScript](js/can-place-flowers)                                           |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | Easy       | [JavaScript](js/remove-one-element-to-make-the-array-strictly-increasing)    |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/)                                                                                                       | Easy       | [JavaScript](js/sleep)                                                       |
@@ -37,8 +38,8 @@ Each solution is organized in its own folder under the respective language direc
 
 ## Progress
 
-**Total Problems Solved:** 12
+**Total Problems Solved:** 13
 
-- Easy: 11
+- Easy: 12
 - Medium: 1
 - Hard: 0
