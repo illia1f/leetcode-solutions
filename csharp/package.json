@@ -1,6 +1,8 @@
 {
   "scripts": {
     "search-insert-position": "dotnet script search-insert-position/index.cs",
-    "contains-duplicate": "dotnet script contains-duplicate/index.cs"
+    "contains-duplicate": "dotnet script contains-duplicate/index.cs",
+    "valid-anagram": "dotnet script valid-anagram/bare-minimum.cs",
+    "valid-anagram:advanced": "dotnet script valid-anagram/advanced-impl.cs"
   }
 }
